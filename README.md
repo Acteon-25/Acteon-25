@@ -1,52 +1,95 @@
-# 👋 ¡Hola, soy Jean!
+<h1 align="center">👋 Hola, soy Jean</h1>
 
-Soy un desarrollador de software en formación con una pasión por crear soluciones útiles, accesibles y con un toque creativo. Actualmente estoy en el 6to ciclo de mi carrera, y me enfoco en el desarrollo **frontend con React**, así como en **aplicaciones de escritorio con Tauri** y **backend con Express**.
-
----
-
-### 🚀 Proyectos en curso
-
-- ☕ **MeCuidoConDXN**  
-  Página web para una cafetería de productos naturales. Desarrollo, soporte y mantenimiento continuo.
+<p align="center">Desarrollador en formación | Apasionado por la tecnología, la inteligencia emocional y los proyectos con impacto</p>
 
 ---
 
-### 💡 Intereses y objetivos
+## 🚀 Sobre mí
 
-- Desarrollo **full stack con propósito social**
-- Crear herramientas que combinen **tecnología + bienestar emocional**
-- Aprender **Rust**, **Solidity**, y profundizar en **arquitectura de software** (DDD)
-- Compartir el proceso de aprendizaje a través de **contenido en vivo** y **podcast**
-
----
-
-### 🎙️ Coders and Players
-
-Estoy construyendo una marca personal con un enfoque en desarrollo de software, videojuegos y estilo de vida tech. Con mi amigo, compartimos nuestras experiencias como desarrolladores en formación a través de:
-
-- 🎧 Podcast con temas de programación, filosofía y vida
-- 📺 Streaming en plataformas como Kick usando OBS
-
----
-
-### 🧘‍♂️ Vida más allá del código
-
-- Practico **meditación Vipassana**
-- Me inspiro en la filosofía para reflexionar y resolver problemas
-- Escucho música **Lo-Fi**, clásica y soundtracks de videojuegos
+```ts
+const jean = {
+  rol: "Desarrollador Junior",
+  stack: ["React", "Rust", "Tauri", "Node.js", "MySQL", "Solidity"],
+  intereses: [
+    "IA aplicada a la vida cotidiana",
+    "Desarrollo de apps con propósito social",
+    "Firma digital y blockchain",
+    "Meditación y bienestar emocional",
+    "Podcasting y contenido tech"
+  ],
+  objetivo: "Construir herramientas útiles, humanas y sostenibles"
+}
+```
 
 ---
 
-### 🛠️ Tecnologías que uso
+## 🧠 Proyectos destacados
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+🌱 **App de Inteligencia Emocional**  
+MVP basado en MSCEIT: facilitación, comprensión y manejo emocional usando IA.
+
+☕ **MeCuidoConDXN**  
+Sitio web para una cafetería de productos naturales en Perú, con soporte continuo.
+
+🧾 **Firma de PDFs con Blockchain**  
+App con **Tauri + React + Solidity** que permite firmar documentos y verificarlos por QR.
+
+📝 **AI Note Assistant**  
+Bot que transforma notas desordenadas en resúmenes visuales, mapas mentales y emojis para estudiar mejor.
+
+🎮 **Coders and Players**  
+Podcast y canal de contenido sobre desarrollo, videojuegos, y estilo de vida tecnológico.
 
 ---
 
-> _“Construyo con código y con intención.”_
+## 🧰 Tecnologías y herramientas
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jean-dev&show_icons=true&theme=react&hide_title=true" alt="Jean GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jean-dev&theme=react" alt="Jean GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-dev&layout=compact&theme=react" alt="Top Langs" />
+</p>
+
+---
+
+## ✨ En otras dimensiones...
+
+- 🎧 Escucho música Lo-Fi, clásica y soundtracks para mantenerme enfocado  
+- 🧘‍♂️ Practico meditación Vipassana y me interesa el Tai Chi  
+- 📚 Me inspiran la filosofía y los videojuegos narrativos  
+- 🎙️ Co-creador del podcast **Coders and Players**  
+- 🧪 Me gusta explorar herramientas nuevas como **Tauri**, **Hardhat**, y **AI personalizada**
+
+---
+
+## 📫 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@CodersAndPlayers"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>“Construyo con código y con intención.”</i></p>
