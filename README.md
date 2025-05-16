@@ -48,18 +48,21 @@ Estoy construyendo una marca personal con un enfoque en desarrollo de software, 
 
 ---
 
+[![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acteon-25&show_icons=true&theme=radical)](https://github.com/Acteon-25)
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jean-dev&show_icons=true&theme=react&hide_title=true" alt="Jean GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Acteon-25&show_icons=true&theme=react&hide_title=true" alt="Jean GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jean-dev&theme=react" alt="Jean GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acteon-25&theme=react" alt="Jean GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-dev&layout=compact&theme=react" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acteon-25&layout=compact&theme=react" alt="Top Langs" />
 </p>
 
 ---
