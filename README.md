@@ -20,15 +20,6 @@ Soy un desarrollador de software en formación con una pasión por crear solucio
 
 ---
 
-### 🎙️ Coders and Players
-
-Estoy construyendo una marca personal con un enfoque en desarrollo de software, videojuegos y estilo de vida tech. Con mi amigo, compartimos nuestras experiencias como desarrolladores en formación a través de:
-
-- 🎧 Podcast con temas de programación, filosofía y vida
-- 📺 Streaming en plataformas como Kick usando OBS
-
----
-
 ### 🧘‍♂️ Vida más allá del código
 
 - Practico **meditación Vipassana**
